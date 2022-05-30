@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{goetzmann_origins_2005}
+William~N. Goetzmann and K.~Geert Rouwenhorst.
+\newblock {\em The {Origins} of {Value}: {The} {Financial} {Innovations} that
+  {Created} {Modern} {Capital} {Markets}}.
+\newblock Oxford University Press, Oxford, New York, August 2005.
+
+\bibitem{benson_quipu_1975}
+ELIZABETH~P. BENSON.
+\newblock The {Quipu}: "{Written}" {Texts} in {Ancient} {Peru}.
+\newblock {\em The Princeton University Library Chronicle}, 37(1):11--23, 1975.
+\newblock Publisher: Princeton University Library.
+
+\bibitem{poon_bitcoin_2016}
+Joseph Poon and Thaddeus Dryja.
+\newblock The {Bitcoin} {Lightning} {Network}:.
+\newblock page~59, January 2016.
+
+\bibitem{swann_towards_2018}
+Thomas Swann.
+\newblock Towards an anarchist cybernetics: {Stafford} {Beer},
+  self-organisation and radical social movements.
+\newblock January 2018.
+\newblock Publisher: Loughborough University.
+
+\bibitem{szabo_shelling_2002}
+Nick Szabo.
+\newblock Shelling {Out}: {The} {Origins} of {Money}, 2002.
+
+\bibitem{nakamoto_bitcoin_2008}
+Satoshi Nakamoto.
+\newblock Bitcoin: {A} {Peer}-to-{Peer} {Electronic} {Cash} {System}.
+\newblock page~11, 2008.
+
+\bibitem{wood_ethereum_2013}
+Dr~Gavin Wood.
+\newblock {ETHEREUM}: {A} {SECURE} {DECENTRALISED} {GENERALISED} {TRANSACTION}
+  {LEDGER}.
+\newblock page~41, 2013.
+
+\bibitem{shapiro_conict-free_2011}
+Marc Shapiro, Nuno Preguiça, Carlos Baquero, and Marek Zawirski.
+\newblock Conﬂict-free {Replicated} {Data} {Types}.
+\newblock page~21, 2011.
+
+\bibitem{beer_designing_1994}
+Stafford Beer and Stafford Beer.
+\newblock {\em Designing freedom}.
+\newblock The {Stafford} {Beer} classic library. Wiley, Chichester, West
+  Sussex, England ; New York, 1994.
+
+\bibitem{riegel_new_1976}
+Edwin~C Riegel and Spencer~Heath MacCallum.
+\newblock {\em The new approach to freedom: together with essays on the
+  separation of money and state}.
+\newblock Heather Foundation, San Pedro, Calif., 1976.
+\newblock OCLC: 8117045.
+
+\bibitem{greco_end_2009}
+Thomas Greco.
+\newblock {\em The {End} of {Money} and the {Future} of {Civilization}}.
+\newblock Chelsea Green Publishing, June 2009.
+\newblock Google-Books-ID: lUdPcDWQv90C.
+
+\bibitem{othman_automated_2012}
+Abraham~M. Othman.
+\newblock {\em Automated {Market} {Making}: {Theory} and {Practice}}.
+\newblock thesis, Carnegie Mellon University, May 2012.
+
+\bibitem{zhang_formal_2018}
+Yi~Zhang, Xiaohong Chen, and Daejun Park.
+\newblock Formal {Specification} of {Constant} {Product} (x * y = k) {Market}
+  {Maker} {Model} and {Implementation}, October 2018.
+
+\bibitem{wang_cyclic_2022}
+Ye~Wang, Yan Chen, Haotian Wu, Liyi Zhou, Shuiguang Deng, and Roger
+  Wattenhofer.
+\newblock Cyclic {Arbitrage} in {Decentralized} {Exchanges}.
+\newblock {\em arXiv:2105.02784 [cs, q-fin]}, January 2022.
+\newblock arXiv: 2105.02784.
+
+\bibitem{decandia_dynamo_2016}
+Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Alex
+  Pilchin, Swaminathan Sivasubramanian, Peter Vosshall, and Werner Vogels.
+\newblock Dynamo: {Amazon}’s {Highly} {Available} {Key}-value {Store}.
+\newblock page~16, 2016.
+
+\bibitem{goos_kademlia_2002}
+Petar Maymounkov and David Mazières.
+\newblock Kademlia: {A} {Peer}-to-{Peer} {Information} {System} {Based} on the
+  {XOR} {Metric}.
+\newblock In Gerhard Goos, Juris Hartmanis, Jan van Leeuwen, Peter Druschel,
+  Frans Kaashoek, and Antony Rowstron, editors, {\em Peer-to-{Peer} {Systems}},
+  volume 2429, pages 53--65. Springer Berlin Heidelberg, Berlin, Heidelberg,
+  2002.
+\newblock Series Title: Lecture Notes in Computer Science.
+
+\end{thebibliography}
